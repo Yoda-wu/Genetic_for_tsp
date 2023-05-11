@@ -1,0 +1,135 @@
+﻿  GA1DArrayGenome.cpp
+  GA1DBinStrGenome.cpp
+  GA2DArrayGenome.cpp
+  GA2DBinStrGenome.cpp
+  GA3DArrayGenome.cpp
+  GA3DBinStrGenome.cpp
+  GAAllele.cpp
+  GABaseGA.cpp
+D:\school\Junior\AI\lab1\tsp_ga\ga\GAStatistics.h(164,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  GABin2DecGenome.cpp
+  gabincvt.cpp
+D:\school\Junior\AI\lab1\tsp_ga\ga\gabincvt.cpp(59,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\gabincvt.cpp(73,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\gabincvt.cpp(89,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\gabincvt.cpp(91,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  GABinStr.cpp
+  GADCrowdingGA.cpp
+D:\school\Junior\AI\lab1\tsp_ga\ga\GAStatistics.h(164,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  GADemeGA.cpp
+D:\school\Junior\AI\lab1\tsp_ga\ga\GAStatistics.h(164,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  gaerror.cpp
+D:\school\Junior\AI\lab1\tsp_ga\ga\gaerror.cpp(78,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\gaerror.cpp(79,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\gaerror.cpp(80,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\gaerror.cpp(81,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\gaerror.cpp(82,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\gaerror.cpp(83,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\gaerror.cpp(85,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\gaerror.cpp(86,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\gaerror.cpp(87,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\gaerror.cpp(90,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\gaerror.cpp(91,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\gaerror.cpp(92,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\gaerror.cpp(94,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\gaerror.cpp(95,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\gaerror.cpp(105,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\gaerror.cpp(106,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\gaerror.cpp(107,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\gaerror.cpp(108,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\gaerror.cpp(109,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\gaerror.cpp(110,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\gaerror.cpp(112,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\gaerror.cpp(113,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\gaerror.cpp(114,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\gaerror.cpp(117,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\gaerror.cpp(118,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\gaerror.cpp(119,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\gaerror.cpp(121,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\gaerror.cpp(122,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\gaerror.cpp(132,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\gaerror.cpp(133,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\gaerror.cpp(134,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\gaerror.cpp(135,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\gaerror.cpp(137,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\gaerror.cpp(138,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\gaerror.cpp(139,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\gaerror.cpp(142,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\gaerror.cpp(143,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\gaerror.cpp(144,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\gaerror.cpp(146,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\gaerror.cpp(147,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  GAGenome.cpp
+  GAIncGA.cpp
+D:\school\Junior\AI\lab1\tsp_ga\ga\GAStatistics.h(164,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  GAList.cpp
+  GAListBASE.cpp
+  GAListGenome.cpp
+  GAParameter.cpp
+D:\school\Junior\AI\lab1\tsp_ga\ga\GAParameter.cpp(34,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\GAParameter.cpp(40,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\GAParameter.cpp(63,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\GAParameter.cpp(68,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\GAParameter.cpp(98,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\GAParameter.cpp(407,7): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\GAParameter.cpp(468,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\GAParameter.cpp(469,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\GAParameter.cpp(470,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\GAParameter.cpp(471,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\GAParameter.cpp(478,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\GAParameter.cpp(479,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\GAParameter.cpp(480,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\GAParameter.cpp(481,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\GAParameter.cpp(482,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\GAParameter.cpp(612,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\GAParameter.cpp(613,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码...
+  正在编译...
+  GAPopulation.cpp
+D:\school\Junior\AI\lab1\tsp_ga\ga\GAStatistics.h(164,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  garandom.cpp
+D:\school\Junior\AI\lab1\tsp_ga\ga\garandom.cpp(69,17): warning C4244: “=”: 从“time_t”转换到“unsigned long”，可能丢失数据
+D:\school\Junior\AI\lab1\tsp_ga\ga\garandom.cpp(315,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  GARealGenome.cpp
+D:\school\Junior\AI\lab1\tsp_ga\ga\GARealGenome.cpp(170,27): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\school\Junior\AI\lab1\tsp_ga\ga\GARealGenome.cpp(187,25): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\school\Junior\AI\lab1\tsp_ga\ga\GARealGenome.cpp(219,23): warning C4244: “参数”: 从“double”转换到“const T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\school\Junior\AI\lab1\tsp_ga\ga\GARealGenome.cpp(220,23): warning C4244: “参数”: 从“double”转换到“const T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\school\Junior\AI\lab1\tsp_ga\ga\GARealGenome.cpp(231,23): warning C4244: “参数”: 从“double”转换到“const T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\school\Junior\AI\lab1\tsp_ga\ga\GARealGenome.cpp(264,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\school\Junior\AI\lab1\tsp_ga\ga\GARealGenome.cpp(265,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\school\Junior\AI\lab1\tsp_ga\ga\GARealGenome.cpp(283,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\school\Junior\AI\lab1\tsp_ga\ga\GARealGenome.cpp(284,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  GAScaling.cpp
+D:\school\Junior\AI\lab1\tsp_ga\ga\GAStatistics.h(164,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  GASelector.cpp
+  GASimpleGA.cpp
+D:\school\Junior\AI\lab1\tsp_ga\ga\GAStatistics.h(164,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  GASStateGA.cpp
+D:\school\Junior\AI\lab1\tsp_ga\ga\GAStatistics.h(164,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  GAStatistics.cpp
+D:\school\Junior\AI\lab1\tsp_ga\ga\GAStatistics.h(164,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\GAStatistics.cpp(49,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\ga\GAStatistics.cpp(134,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  GAStringGenome.cpp
+  GATree.cpp
+  GATreeBASE.cpp
+  GATreeGenome.cpp
+  tspmain.cpp
+D:\school\Junior\AI\lab1\tsp_ga\ga\GAStatistics.h(164,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\school\Junior\AI\lab1\tsp_ga\tspmain.cpp(71,42): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\school\Junior\AI\lab1\tsp_ga\tspmain.cpp(103,17): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  正在生成代码...
+  tsp_ga.vcxproj -> D:\school\Junior\AI\lab1\tsp_ga\Debug\tsp_ga.exe

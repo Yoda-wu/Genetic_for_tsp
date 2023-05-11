@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{D25A5F5A-6F92-463A-B298-789DDDF4830B}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>tsp_ga</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <CharacterSet>Unicode</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="ga\GA1DArrayGenome.cpp" />
+    <ClCompile Include="ga\GA1DBinStrGenome.cpp" />
+    <ClCompile Include="ga\GA2DArrayGenome.cpp" />
+    <ClCompile Include="ga\GA2DBinStrGenome.cpp" />
+    <ClCompile Include="ga\GA3DArrayGenome.cpp" />
+    <ClCompile Include="ga\GA3DBinStrGenome.cpp" />
+    <ClCompile Include="ga\GAAllele.cpp" />
+    <ClCompile Include="ga\GABaseGA.cpp" />
+    <ClCompile Include="ga\GABin2DecGenome.cpp" />
+    <ClCompile Include="ga\gabincvt.cpp" />
+    <ClCompile Include="ga\GABinStr.cpp" />
+    <ClCompile Include="ga\GADCrowdingGA.cpp" />
+    <ClCompile Include="ga\GADemeGA.cpp" />
+    <ClCompile Include="ga\gaerror.cpp" />
+    <ClCompile Include="ga\GAGenome.cpp" />
+    <ClCompile Include="ga\GAIncGA.cpp" />
+    <ClCompile Include="ga\GAList.cpp" />
+    <ClCompile Include="ga\GAListBASE.cpp" />
+    <ClCompile Include="ga\GAListGenome.cpp" />
+    <ClCompile Include="ga\GAParameter.cpp" />
+    <ClCompile Include="ga\GAPopulation.cpp" />
+    <ClCompile Include="ga\garandom.cpp" />
+    <ClCompile Include="ga\GARealGenome.cpp" />
+    <ClCompile Include="ga\GAScaling.cpp" />
+    <ClCompile Include="ga\GASelector.cpp" />
+    <ClCompile Include="ga\GASimpleGA.cpp" />
+    <ClCompile Include="ga\GASStateGA.cpp" />
+    <ClCompile Include="ga\GAStatistics.cpp" />
+    <ClCompile Include="ga\GAStringGenome.cpp" />
+    <ClCompile Include="ga\GATree.cpp" />
+    <ClCompile Include="ga\GATreeBASE.cpp" />
+    <ClCompile Include="ga\GATreeGenome.cpp" />
+    <ClCompile Include="tspmain.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ga\ga.h" />
+    <ClInclude Include="ga\GA1DArrayGenome.h" />
+    <ClInclude Include="ga\GA1DBinStrGenome.h" />
+    <ClInclude Include="ga\GA2DArrayGenome.h" />
+    <ClInclude Include="ga\GA2DBinStrGenome.h" />
+    <ClInclude Include="ga\GA3DArrayGenome.h" />
+    <ClInclude Include="ga\GA3DBinStrGenome.h" />
+    <ClInclude Include="ga\GAAllele.h" />
+    <ClInclude Include="ga\GAArray.h" />
+    <ClInclude Include="ga\GABaseGA.h" />
+    <ClInclude Include="ga\GABin2DecGenome.h" />
+    <ClInclude Include="ga\gabincvt.h" />
+    <ClInclude Include="ga\GABinStr.h" />
+    <ClInclude Include="ga\gaconfig.h" />
+    <ClInclude Include="ga\GADCrowdingGA.h" />
+    <ClInclude Include="ga\GADemeGA.h" />
+    <ClInclude Include="ga\gaerror.h" />
+    <ClInclude Include="ga\GAEvalData.h" />
+    <ClInclude Include="ga\GAGenome.h" />
+    <ClInclude Include="ga\gaid.h" />
+    <ClInclude Include="ga\GAIncGA.h" />
+    <ClInclude Include="ga\GAList.h" />
+    <ClInclude Include="ga\GAListBASE.h" />
+    <ClInclude Include="ga\GAListGenome.h" />
+    <ClInclude Include="ga\GAMask.h" />
+    <ClInclude Include="ga\GANode.h" />
+    <ClInclude Include="ga\GAParameter.h" />
+    <ClInclude Include="ga\GAPopulation.h" />
+    <ClInclude Include="ga\garandom.h" />
+    <ClInclude Include="ga\GARealGenome.h" />
+    <ClInclude Include="ga\GAScaling.h" />
+    <ClInclude Include="ga\GASelector.h" />
+    <ClInclude Include="ga\GASimpleGA.h" />
+    <ClInclude Include="ga\GASStateGA.h" />
+    <ClInclude Include="ga\GAStatistics.h" />
+    <ClInclude Include="ga\GAStringGenome.h" />
+    <ClInclude Include="ga\GATree.h" />
+    <ClInclude Include="ga\GATreeBASE.h" />
+    <ClInclude Include="ga\GATreeGenome.h" />
+    <ClInclude Include="ga\gatypes.h" />
+    <ClInclude Include="ga\gaversion.h" />
+    <ClInclude Include="ga\std_stream.h" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

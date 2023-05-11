@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="头文件\galib_h">
+      <UniqueIdentifier>{d691c34d-9999-49e1-8fc8-fd3f60170f31}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\galib_cpp">
+      <UniqueIdentifier>{58525d2b-9922-4013-a4ae-09aee09e8033}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="tspmain.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ga\GA1DArrayGenome.cpp">
+      <Filter>源文件\galib_cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="ga\GA1DBinStrGenome.cpp">
+      <Filter>源文件\galib_cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="ga\GA2DArrayGenome.cpp">
+      <Filter>源文件\galib_cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="ga\GA2DBinStrGenome.cpp">
+      <Filter>源文件\galib_cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="ga\GA3DArrayGenome.cpp">
+      <Filter>源文件\galib_cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="ga\GA3DBinStrGenome.cpp">
+      <Filter>源文件\galib_cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="ga\GAAllele.cpp">
+      <Filter>源文件\galib_cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="ga\GABaseGA.cpp">
+      <Filter>源文件\galib_cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="ga\GABin2DecGenome.cpp">
+      <Filter>源文件\galib_cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="ga\gabincvt.cpp">
+      <Filter>源文件\galib_cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="ga\GABinStr.cpp">
+      <Filter>源文件\galib_cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="ga\GADCrowdingGA.cpp">
+      <Filter>源文件\galib_cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="ga\GADemeGA.cpp">
+      <Filter>源文件\galib_cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="ga\gaerror.cpp">
+      <Filter>源文件\galib_cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="ga\GAGenome.cpp">
+      <Filter>源文件\galib_cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="ga\GAIncGA.cpp">
+      <Filter>源文件\galib_cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="ga\GAList.cpp">
+      <Filter>源文件\galib_cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="ga\GAListBASE.cpp">
+      <Filter>源文件\galib_cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="ga\GAListGenome.cpp">
+      <Filter>源文件\galib_cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="ga\GAParameter.cpp">
+      <Filter>源文件\galib_cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="ga\GAPopulation.cpp">
+      <Filter>源文件\galib_cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="ga\garandom.cpp">
+      <Filter>源文件\galib_cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="ga\GARealGenome.cpp">
+      <Filter>源文件\galib_cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="ga\GAScaling.cpp">
+      <Filter>源文件\galib_cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="ga\GASelector.cpp">
+      <Filter>源文件\galib_cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="ga\GASimpleGA.cpp">
+      <Filter>源文件\galib_cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="ga\GASStateGA.cpp">
+      <Filter>源文件\galib_cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="ga\GAStatistics.cpp">
+      <Filter>源文件\galib_cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="ga\GAStringGenome.cpp">
+      <Filter>源文件\galib_cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="ga\GATree.cpp">
+      <Filter>源文件\galib_cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="ga\GATreeBASE.cpp">
+      <Filter>源文件\galib_cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="ga\GATreeGenome.cpp">
+      <Filter>源文件\galib_cpp</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ga\ga.h">
+      <Filter>头文件\galib_h</Filter>
+    </ClInclude>
+    <ClInclude Include="ga\GA1DArrayGenome.h">
+      <Filter>头文件\galib_h</Filter>
+    </ClInclude>
+    <ClInclude Include="ga\GA1DBinStrGenome.h">
+      <Filter>头文件\galib_h</Filter>
+    </ClInclude>
+    <ClInclude Include="ga\GA2DArrayGenome.h">
+      <Filter>头文件\galib_h</Filter>
+    </ClInclude>
+    <ClInclude Include="ga\GA2DBinStrGenome.h">
+      <Filter>头文件\galib_h</Filter>
+    </ClInclude>
+    <ClInclude Include="ga\GA3DArrayGenome.h">
+      <Filter>头文件\galib_h</Filter>
+    </ClInclude>
+    <ClInclude Include="ga\GA3DBinStrGenome.h">
+      <Filter>头文件\galib_h</Filter>
+    </ClInclude>
+    <ClInclude Include="ga\GAAllele.h">
+      <Filter>头文件\galib_h</Filter>
+    </ClInclude>
+    <ClInclude Include="ga\GAArray.h">
+      <Filter>头文件\galib_h</Filter>
+    </ClInclude>
+    <ClInclude Include="ga\GABaseGA.h">
+      <Filter>头文件\galib_h</Filter>
+    </ClInclude>
+    <ClInclude Include="ga\GABin2DecGenome.h">
+      <Filter>头文件\galib_h</Filter>
+    </ClInclude>
+    <ClInclude Include="ga\gabincvt.h">
+      <Filter>头文件\galib_h</Filter>
+    </ClInclude>
+    <ClInclude Include="ga\GABinStr.h">
+      <Filter>头文件\galib_h</Filter>
+    </ClInclude>
+    <ClInclude Include="ga\gaconfig.h">
+      <Filter>头文件\galib_h</Filter>
+    </ClInclude>
+    <ClInclude Include="ga\GADCrowdingGA.h">
+      <Filter>头文件\galib_h</Filter>
+    </ClInclude>
+    <ClInclude Include="ga\GADemeGA.h">
+      <Filter>头文件\galib_h</Filter>
+    </ClInclude>
+    <ClInclude Include="ga\gaerror.h">
+      <Filter>头文件\galib_h</Filter>
+    </ClInclude>
+    <ClInclude Include="ga\GAEvalData.h">
+      <Filter>头文件\galib_h</Filter>
+    </ClInclude>
+    <ClInclude Include="ga\GAGenome.h">
+      <Filter>头文件\galib_h</Filter>
+    </ClInclude>
+    <ClInclude Include="ga\gaid.h">
+      <Filter>头文件\galib_h</Filter>
+    </ClInclude>
+    <ClInclude Include="ga\GAIncGA.h">
+      <Filter>头文件\galib_h</Filter>
+    </ClInclude>
+    <ClInclude Include="ga\GAList.h">
+      <Filter>头文件\galib_h</Filter>
+    </ClInclude>
+    <ClInclude Include="ga\GAListBASE.h">
+      <Filter>头文件\galib_h</Filter>
+    </ClInclude>
+    <ClInclude Include="ga\GAListGenome.h">
+      <Filter>头文件\galib_h</Filter>
+    </ClInclude>
+    <ClInclude Include="ga\GAMask.h">
+      <Filter>头文件\galib_h</Filter>
+    </ClInclude>
+    <ClInclude Include="ga\GANode.h">
+      <Filter>头文件\galib_h</Filter>
+    </ClInclude>
+    <ClInclude Include="ga\GAParameter.h">
+      <Filter>头文件\galib_h</Filter>
+    </ClInclude>
+    <ClInclude Include="ga\GAPopulation.h">
+      <Filter>头文件\galib_h</Filter>
+    </ClInclude>
+    <ClInclude Include="ga\garandom.h">
+      <Filter>头文件\galib_h</Filter>
+    </ClInclude>
+    <ClInclude Include="ga\GARealGenome.h">
+      <Filter>头文件\galib_h</Filter>
+    </ClInclude>
+    <ClInclude Include="ga\GAScaling.h">
+      <Filter>头文件\galib_h</Filter>
+    </ClInclude>
+    <ClInclude Include="ga\GASelector.h">
+      <Filter>头文件\galib_h</Filter>
+    </ClInclude>
+    <ClInclude Include="ga\GASimpleGA.h">
+      <Filter>头文件\galib_h</Filter>
+    </ClInclude>
+    <ClInclude Include="ga\GASStateGA.h">
+      <Filter>头文件\galib_h</Filter>
+    </ClInclude>
+    <ClInclude Include="ga\GAStatistics.h">
+      <Filter>头文件\galib_h</Filter>
+    </ClInclude>
+    <ClInclude Include="ga\GAStringGenome.h">
+      <Filter>头文件\galib_h</Filter>
+    </ClInclude>
+    <ClInclude Include="ga\GATree.h">
+      <Filter>头文件\galib_h</Filter>
+    </ClInclude>
+    <ClInclude Include="ga\GATreeBASE.h">
+      <Filter>头文件\galib_h</Filter>
+    </ClInclude>
+    <ClInclude Include="ga\GATreeGenome.h">
+      <Filter>头文件\galib_h</Filter>
+    </ClInclude>
+    <ClInclude Include="ga\gatypes.h">
+      <Filter>头文件\galib_h</Filter>
+    </ClInclude>
+    <ClInclude Include="ga\gaversion.h">
+      <Filter>头文件\galib_h</Filter>
+    </ClInclude>
+    <ClInclude Include="ga\std_stream.h">
+      <Filter>头文件\galib_h</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
